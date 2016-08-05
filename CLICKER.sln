@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E2DC9E98-6C5F-6AC7-6F45-121EED4CA406}") = "CLICKER", "Assembly-CSharp.csproj", "{BD138932-F911-DF6A-2A3B-76B007E93D96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD138932-F911-DF6A-2A3B-76B007E93D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD138932-F911-DF6A-2A3B-76B007E93D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD138932-F911-DF6A-2A3B-76B007E93D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD138932-F911-DF6A-2A3B-76B007E93D96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
